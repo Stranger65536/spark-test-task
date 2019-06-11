@@ -1,0 +1,5 @@
+category,product,userId,eventTime,eventType,sessionStartTime,sessionEndTime
+books,Scala for Dummies,user 100,2018-03-01 12:00:02,view description,2018-03-01 12:00:02,2018-03-01 12:00:02
+books,Scala for Dummies,user 200,2018-03-01 12:00:03,view description,2018-03-01 12:00:03,2018-03-01 12:03:02
+books,Scala for Dummies,user 200,2018-03-01 12:03:02,like,2018-03-01 12:00:03,2018-03-01 12:03:02
+books,Scala for Dummies,user 100,2018-03-01 12:06:02,like,2018-03-01 12:06:02,2018-03-01 12:06:02
